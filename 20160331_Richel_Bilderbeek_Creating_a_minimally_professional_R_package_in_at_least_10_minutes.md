@@ -1,1 +1,37 @@
-20160331_Richel_Bilderbeek_Creating_a_minimally_professional_R_package_in_at_least_10_minutes.md
+# Creating a minimally professional R package in at least 10 minutes
+
+Date: 2016-03-31
+Speaker: Richel Bilderbeek
+
+The R function:
+
+```
+#' Multiplies a value by 2, except 42, which it will multiply by 1
+#' @param x Input value
+#' @return Magicified value
+#' @export
+do_magic <- function(x) {
+  if (x == 42) {
+    return 42
+  }
+  z <- x * 2
+  z
+}
+```
+
+My `lintr` test:
+
+```
+test_that("Package must pass lintr", {
+  lintr::expect_lint_free()
+})
+```
+
+The commands I used:
+
+```
+devtools::add_test("do_magic")
+devtools::add_vignette("demo_do_magic")
+devtools::check()
+```
+
