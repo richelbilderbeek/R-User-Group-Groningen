@@ -17,5 +17,5 @@ Most recent at the top
 
 ## 2016-03-31
 
- * Chris Davis:
+ * [Chris Davis: R Markdown](https://github.com/richelbilderbeek/R-User-Group-Groningen/raw/master/ChrisDavis_31Mar2016_RMarkdown.pdf)
  * [Richel Bilderbeek: Creating a minimally professional R package in at least 10 minutes](20160331_Richel_Bilderbeek_Creating_a_minimally_professional_R_package_in_at_least_10_minutes.md)
