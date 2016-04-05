@@ -1,7 +1,7 @@
 # Creating a minimally professional R package in at least 10 minutes
 
-Date: 2016-03-31
-Speaker: Richel Bilderbeek
+ * Date: 2016-03-31
+ * Speaker: Richel Bilderbeek
 
 The R function:
 
