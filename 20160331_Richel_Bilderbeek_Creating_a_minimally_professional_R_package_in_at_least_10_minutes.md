@@ -30,7 +30,7 @@ test_that("Package must pass lintr", {
 The commands I used:
 
 ```
-devtools::add_test("do_magic")
+devtools::add_test("do_magic") # It will prepend the filename with 'test-'
 devtools::add_vignette("demo_do_magic")
 devtools::check()
 ```
