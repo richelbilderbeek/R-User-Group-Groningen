@@ -19,7 +19,7 @@ Most recent at the top
 
 This is not an R User Group meeting, but I add it for completeness,
 
- * Richel Bilderbeek: `Test-driven development in R`, from 15:30-(max)16:30 @ Linnaeusborg room 5172.0571 (a.k.a. The Blue Room) at the fifth floor. Enter the building (from the main entrance), go up to the fifth floor, go right 5 m, first left, first room at the left at approx 2 m.
+ * Monday April 18th 15:30-(max)16:30: Richel Bilderbeek: `Test-driven development in R` @ Linnaeusborg room 5172.0571 (a.k.a. The Blue Room) at the fifth floor. Enter the building (from the main entrance), go up to the fifth floor, go right 5 m, first left, first room at the left at approx 2 m.
 
 ## 2016-03-31
 
