@@ -15,6 +15,12 @@ Most recent at the top
  * TBA
  * TBA 
 
+## 2016-04-18
+
+This is not an R User Group meeting, but I add it for completeness,
+
+ * Richel Bilderbeek: `Test-driven development in R`, from 15:30-(max)16:30 @ Linnaeusborg room 5172.0571 (a.k.a. The Blue Room) at the fifth floor. Enter the building (from the main entrance), go up to the fifth floor, go right 5 m, first left, first room at the left at approx 2 m.
+
 ## 2016-03-31
 
  * [Chris Davis: R Markdown](https://github.com/richelbilderbeek/R-User-Group-Groningen/raw/master/ChrisDavis_31Mar2016_RMarkdown.pdf)
