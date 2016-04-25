@@ -12,8 +12,8 @@ Most recent at the top
 
 ## 2016-04-28
 
- * TBA
- * TBA 
+ * Chris Davis: topic mining
+ * Richel Bilderbeek: test-driven development in R
 
 ## 2016-04-18
 
