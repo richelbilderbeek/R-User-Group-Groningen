@@ -10,7 +10,7 @@ Website about the R User Group in Groningen, The Netherlands
 
 Thursday September 29th 2016, 15:30-16:30 in 5431.0053 (a.k.a the Donald Smitszaal)
 
- * Bob Droge: parallelizing R code
+ * Fokke Dijkstra: parallelizing R code
  * Richel Bilderbeek: test your R code automatically using Travis CI
 
 ## Former presentations
