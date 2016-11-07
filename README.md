@@ -8,14 +8,16 @@ Website about the R User Group in Groningen, The Netherlands
 
 ## Next presentation: 
 
-Thursday September 29th 2016, 15:30-16:30 in 5431.0053 (a.k.a the Donald Smitszaal)
-
- * Fokke Dijkstra: parallelizing R code
- * Richel Bilderbeek: test your R code automatically using Travis CI
+No date picked yet.
 
 ## Former presentations
 
 Most recent at the top
+
+### 2016-09-29 
+
+ * Fokke Dijkstra: parallelizing R code, [video here](http://streaming3.service.rug.nl/p2gplayer/Player.aspx?id=vPZEX)
+ * Richel Bilderbeek: professional R development, [video here](http://streaming3.service.rug.nl/p2gplayer/Player.aspx?id=c9GNy2)
 
 ### 2016-04-28
 
