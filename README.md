@@ -8,16 +8,14 @@ Website about the R User Group in Groningen, The Netherlands
 
 ## Next presentation: 
 
-No date picked yet.
-
-## Former presentations
-
-Most recent at the top
-
 ## 2017-03-31
 
  * Herbert Kruitbosch: scientific code sharing
  * Thijs Janzen
+
+## Former presentations
+
+Most recent at the top
 
 ### 2016-09-29 
 
