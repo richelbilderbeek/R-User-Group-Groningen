@@ -14,6 +14,11 @@ No date picked yet.
 
 Most recent at the top
 
+## 2017-03-31
+
+ * Herbert Kruitbosch: scientific code sharing
+ * Thijs Janzen
+
 ### 2016-09-29 
 
  * Fokke Dijkstra: parallelizing R code, [video here](http://streaming3.service.rug.nl/p2gplayer/Player.aspx?id=vPZEX)
