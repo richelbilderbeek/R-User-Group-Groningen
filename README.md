@@ -8,10 +8,20 @@ Website about the R User Group in Groningen, The Netherlands
 
 ## Next presentation: 
 
-## (not yet confirmed) 2017-06-02
+## (date to be decided with speakers) June 2018
 
- * (not yet confirmed) Herbert Kruitbosch: scientific code sharing
- * (not yet confirmed) Thijs Janzen
+ * (asked) Herbert Kruitbosch: scientific code sharing
+ * (asked) Thijs Janzen
+ * (asked) Leonel Herrera Alsina
+ * (asked) Thijs Janzen
+
+## (date to be decided with speakers) September 2018
+
+ * (asked) Andrew Collier
+ * (asked) Herbert Kruitbosch: scientific code sharing
+ * (asked) Thijs Janzen
+ * (asked) Leonel Herrera Alsina
+ * (asked) Thijs Janzen
 
 ## Former presentations
 
