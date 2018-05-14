@@ -11,9 +11,8 @@ Website about the R User Group in Groningen, The Netherlands
 ## (date to be decided with speakers) June 2018
 
  * (asked) Herbert Kruitbosch: scientific code sharing
- * (asked) Thijs Janzen
  * (asked) Leonel Herrera Alsina
- * (asked) Thijs Janzen
+ * (confirmed) Thijs Janzen, 11th or 12th, preferable in morning
 
 ## (date to be decided with speakers) September 2018
 
@@ -26,6 +25,7 @@ Website about the R User Group in Groningen, The Netherlands
 ## Former presentations
 
 Most recent at the top
+
 
 ### 2016-09-29 
 
