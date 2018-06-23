@@ -27,7 +27,7 @@ Most recent at the top
 
 ## 2018-06-12
 
- * Thijs Janzen: the `isoSIM` package
+ * Thijs Janzen: the `isoSIM` package, [video here](https://streaming3.service.rug.nl/p2gplayer/Player.aspx?id=cxbKvM)
  * Leonel Herrera Alsina: 'Folks, meet the R package SecSSE'
 
 ### 2016-09-29 
