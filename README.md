@@ -6,13 +6,12 @@ Website about the R User Group in Groningen, The Netherlands
  * Subscribe to the email list: [here](http://list.rug.nl/cgi-bin/wa?SUBED1=R_USERGROUP_050&A=1)
  * Email list address: `R_USERGROUP_050@list.rug.nl`
 
+Current R User Group Groningen coordinators:
+
+ * Gert-Jan Verheij
+ * Chris Davis
+
 ## Next presentation: 
-
-## (date to be decided with speakers) June 2018
-
- * (asked) Herbert Kruitbosch: scientific code sharing
- * (asked) Leonel Herrera Alsina
- * (confirmed) Thijs Janzen, 11th or 12th, preferable in morning
 
 ## (date to be decided with speakers) September 2018
 
@@ -26,6 +25,10 @@ Website about the R User Group in Groningen, The Netherlands
 
 Most recent at the top
 
+## 2018-06-12
+
+ * Thijs Janzen: the `isoSIM` package
+ * Leonel Herrera Alsina: 'Folks, meet the R package SecSSE'
 
 ### 2016-09-29 
 
