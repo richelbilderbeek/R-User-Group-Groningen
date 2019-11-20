@@ -1,7 +1,9 @@
 # R-User-Group-Groningen
 
-> I (@richelbilderbeek) left the R User Group at 2018-06-13.
-> This page is here just to redirect people.
+```
+I (@richelbilderbeek) left the R User Group at 2018-06-13.
+This page is here just to redirect people.
+```
 
 Website about the R User Group in Groningen, The Netherlands
 
