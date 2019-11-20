@@ -1,5 +1,8 @@
 # R-User-Group-Groningen
 
+> I (@richelbilderbeek) left the R User Group at 2018-06-13.
+> This page is here just to redirect people.
+
 Website about the R User Group in Groningen, The Netherlands
 
  * Wiki: [http://rugg.webhosting.rug.nl](http://rugg.webhosting.rug.nl)
@@ -10,16 +13,6 @@ Current R User Group Groningen coordinators:
 
  * Gert-Jan Verheij
  * Chris Davis
-
-## Next presentation: 
-
-## (date to be decided with speakers) September 2018
-
- * (asked) Andrew Collier
- * (asked) Herbert Kruitbosch: scientific code sharing
- * (asked) Thijs Janzen
- * (asked) Leonel Herrera Alsina
- * (asked) Thijs Janzen
 
 ## Former presentations
 
